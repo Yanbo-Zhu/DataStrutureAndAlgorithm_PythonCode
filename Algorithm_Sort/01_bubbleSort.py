@@ -14,3 +14,13 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(arr)
 
 print("Sorted array is:", arr)
+
+def bubble_sort(array)
+    n = len(array)
+    for i in range(n-1):
+        for j in rang (n-1-i):
+            if arraj[j] > array[j+1]:
+                array[j], array[j+1] =
+
+
+
